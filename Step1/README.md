@@ -37,6 +37,7 @@ Enter your credentials
 Select the desired subscription using:
 
 ``` powershell
+Get-AzureRmSubscription
 Set-AzureRmContext -Subscription 'MySubscriptionName'
 ```
 
