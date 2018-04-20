@@ -10,14 +10,16 @@ You will find included in this repository all materials use during the demos so 
 
 ## Prerequisites
 
-* Microsoft Account (Live ID). Neturintiems - https://signup.live.com/
+* Azure Subscription. Azure Pass will be handed out for every attendee. Otherwise get Free account (https://azure.microsoft.com/en-us/free/)
+* Microsoft Account (Live ID) https://signup.live.com/
 * Visual Studio Community 2017 (https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
 * GitHub account (https://github.com/join)
 * Git agent (https://git-scm.com/download/win)
 * Azure Powershell (https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-5.7.0)
 * Azure SDK (https://www.microsoft.com/en-us/download/details.aspx?id=54289)
 
-## Life after initial deployment
+
+## Contoso. Life after initial deployment
 Life has been going very well at *Contoso* as they just released the first version of their latest product in production.
 
 Yesterday, *Contoso* lack of visibility in production bite them back as issues started to appear, the support & development teams didn't have much information to help troubleshoot the errors. After a long retrospective meeting, they decided to improve their maturity in troubleshooting and management of their cloud infrastructure.
@@ -49,22 +51,5 @@ Step | Tittle | Description
 [Step 8](./Step8/README.md) | Azure Monitor | Explore monitoring and troubleshooting with Azure Monitor.
 [Step 9](./Step9/README.md) | ARM Governance | Learn how to use and configure Azure policies
 
-## Technology Stack required for the Global Azure Bootcamp 2018
-
-* [Visual Studio 2017 or later](https://www.visualstudio.com/downloads/)
-* [Azure PowerShell Module version 5.xx](https://github.com/Azure/azure-powershell/releases/tag/v5.2.0-January2018)
-* [Git for Windows](https://git-scm.com/download/win)
-
-## What you will need before the bootcamp?
-Before the bootcamp, we encourage you to make sure you have all the requirement software so you can concentrate on learning and not running installations.  Make sure you get all the source code and install all the required software.
-
-### Azure subscription
-If you don't own an Azure subscription already, you can create your free account today. It comes with 200$ credit, so you can experience almost everything without spending a dime. 
-
-Make sure to have your account up and ready before the bootcamp.
-
-[Create your free Azure account today](https://azure.microsoft.com/en-us/free/)
-
-*more detail soon....*
 
 [gablogo]: ./media/logo-2018-500x444.png "Global Azure Bootcamp logo"
