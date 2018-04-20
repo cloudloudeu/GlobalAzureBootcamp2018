@@ -6,7 +6,7 @@ param(
     $EnvironmentCode = 'dev',
     [string]
     [ValidateNotNullOrEmpty()]
-    $ResourceGroupLocation = 'East US'
+    $ResourceGroupLocation = 'West Europe'
 )
 
 Begin {
