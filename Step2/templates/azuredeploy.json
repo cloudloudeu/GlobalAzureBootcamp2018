@@ -123,7 +123,7 @@
 
         "appInsights": {
             "name": "[replace(variables('baseNamePattern'),'{role}', 'ai-all')]",
-            "location": "East US",
+            "location": "West Europe",
             "kind": "web",
             "LinkedApplicationId": "[resourceId('Microsoft.Web/sites', variables('webApp').name)]"
 
