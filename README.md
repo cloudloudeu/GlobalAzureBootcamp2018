@@ -1,4 +1,4 @@
-# Global Azure Bootcamp 2018 - Montréal & Ottawa, Canada
+# Global Azure Bootcamp 2018
 
 ![gablogo][gablogo]
 
@@ -7,6 +7,15 @@ All around the world user groups and communities want to learn about Azure and C
 On **April 21, 2018**, all communities will come together once again in the fifth great [Global Azure Bootcamp](https://global.azurebootcamp.net/) event!
 
 You will find included in this repository all materials use during the demos so you can try them at home.
+
+## Prerequisites
+
+* Microsoft Account (Live ID). Neturintiems - https://signup.live.com/
+* Visual Studio Community 2017 (https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=Community&rel=15)
+* GitHub account (https://github.com/join)
+* Git agent (https://git-scm.com/download/win)
+* Azure Powershell (https://docs.microsoft.com/en-us/powershell/azure/install-azurerm-ps?view=azurermps-5.7.0)
+* Azure SDK (https://www.microsoft.com/en-us/download/details.aspx?id=54289)
 
 ## Life after initial deployment
 Life has been going very well at *Contoso* as they just released the first version of their latest product in production.
