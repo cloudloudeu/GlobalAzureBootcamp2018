@@ -12,7 +12,7 @@ In an Administrator PowerShell console window, type:
 Install-Module -Name AzureRM -RequiredVersion 5.2.0 -Force
 ```
 
-# Let's code!
+# Let's code.
 ## Clone repository
 Ensure you have Git for Windows installed.
 
