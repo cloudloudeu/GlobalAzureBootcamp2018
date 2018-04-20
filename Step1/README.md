@@ -23,7 +23,6 @@ git clone https://github.com/MSDEVMTL/GlobalAzureBootcamp2018.git c:\gab2018\
 
 Set-Location c:\gab2018\step1\
 ```
-![git-clone-repository][git-clone-repository]
 
 ## Provision OMS
 Still in the PowerShell console, type the following:
