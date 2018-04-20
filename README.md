@@ -19,7 +19,7 @@ You will find included in this repository all materials use during the demos so 
 * Azure SDK (https://www.microsoft.com/en-us/download/details.aspx?id=54289)
 
 
-## Contoso. Life after initial deployment
+## Workshop. Contoso - Life after initial deployment.
 Life has been going very well at *Contoso* as they just released the first version of their latest product in production.
 
 Yesterday, *Contoso* lack of visibility in production bite them back as issues started to appear, the support & development teams didn't have much information to help troubleshoot the errors. After a long retrospective meeting, they decided to improve their maturity in troubleshooting and management of their cloud infrastructure.
