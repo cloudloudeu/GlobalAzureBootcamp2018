@@ -24,7 +24,7 @@
         },
         "location": {
             "type": "string",
-            "defaultValue": "East US"
+            "defaultValue": "West Europe"
         },
         "sku": {
             "type": "String",
