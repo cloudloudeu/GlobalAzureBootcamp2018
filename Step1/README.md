@@ -19,7 +19,7 @@ Ensure you have Git for Windows installed.
 Open a PowerShell console and type the following:
 
 ``` powershell
-git clone https://github.com/MSDEVMTL/GlobalAzureBootcamp2018.git c:\gab2018\
+git clone https://github.com/cloudloudeu/GlobalAzureBootcamp2018.git c:\gab2018\
 
 Set-Location c:\gab2018\step1\
 ```
